@@ -1,0 +1,2 @@
+Thomas & Friends Origins is the updated version of Thomas & Friends History. Please read all code comments to understand the code.
+Update (April 28th, 2026): New images and info have been added to picture gallery, history, and merchandise info pages.
